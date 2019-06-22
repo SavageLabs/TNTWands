@@ -1,0 +1,22 @@
+SavageTnTWand:
+  #Permissions
+  Give-Permission: 'tntwand.give'
+  Reload-Permission: 'tntwand.reload'
+
+  #Messages For Admins
+  Reloaded-Message: '&2[!] Reload Complete!'
+  Not-Online: '&c[!] &b%player% &7is not online!'
+
+  #Messages For Players
+  No-Perms: '&c[!] Insufficient Permissions!'
+  Success-Message: '&bYou just deposited &e%amount% &btnt into your faction tnt bank!'
+  Received-Messaged: '&a» &7You have Recieved a &aTnT Wand&7!'
+
+Item:
+  Display-Name: '&b&m&l----&r&8&m&l[--- &4TNT &fWand&r&8&m&l---]&b&m&l---'
+  lore:
+    - '&bLeft Clicking &7a Chest'
+    - '&7With Tnt Places it Into Your &bTnt Bank&7!!'
+
+Valid-Chunks:
+  Deny-Message: '&c[!] You cannot use TnT Wands in &b%faction%&c!'

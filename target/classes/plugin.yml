@@ -1,0 +1,7 @@
+name: TntWand
+version: 2.1-SNAPSHOT
+main: me.driftay.tntwand.SavageTnTWand
+authors: [Driftay]
+description: Put tnt into your virtual TNT Bank in SavageFactions
+commands:
+  tntwand:
